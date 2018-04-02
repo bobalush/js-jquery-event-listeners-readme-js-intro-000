@@ -1,6 +1,7 @@
 //define functions here
 function getIt() {
   $('p').on('click', function() {
+<<<<<<< HEAD
     alert('hey!')
   })
 }
@@ -25,6 +26,12 @@ function submitIt() {
     alert('Your form is going to be submitted now.')
   })
 }
+=======
+    alert('hey!');
+  })
+};
+
+>>>>>>> 4c48baed24a6629358c8a894db2d9e4a566bfd6b
 
 
 $(document).ready(function(){
